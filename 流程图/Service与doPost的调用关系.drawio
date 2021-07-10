@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T07:47:20.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.81 Safari/537.36 Edg/92.0.902.40" version="14.8.5" etag="Q02sIzlzP-ItRbdB_j9f" type="github"><diagram id="Kh0U4pQezIJ4Ge__pj4k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-10T08:05:40.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.81 Safari/537.36 Edg/92.0.902.40" etag="IqeAGvdDnRaiN3yYvVLJ" version="14.8.5" type="github">
+  <diagram id="Kh0U4pQezIJ4Ge__pj4k" name="第 1 页">
+    <mxGraphModel dx="1695" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-2" value="LoginServlet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-6" value="HttpServlet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="205" y="460" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-8" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=none;gradientColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="500" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="WlLSQJj6cPpG0CDQ0zKW-9" target="WlLSQJj6cPpG0CDQ0zKW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="670" />
+              <mxPoint x="320" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-9" value="This" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBorderColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-11" value="doPost" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;gradientColor=none;align=center;verticalAlign=top;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="WlLSQJj6cPpG0CDQ0zKW-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-12" value="doPost" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;gradientColor=none;align=center;verticalAlign=top;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WlLSQJj6cPpG0CDQ0zKW-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="500" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-16" value="一个&lt;span style=&quot;font-weight: 400&quot;&gt;Post&lt;/span&gt;请求&lt;span style=&quot;font-weight: normal&quot;&gt;LoginServlet&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-17" value="第一步：调用LoginServlet中的Service进行响应" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="340" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="WlLSQJj6cPpG0CDQ0zKW-19" target="WlLSQJj6cPpG0CDQ0zKW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-19" value="第二步：在LoginServlet中差找不到就会到HttpServlet中查找" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="425" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-21" value="第三步：执行Service方法会执行代码：&lt;br&gt;this.doPost(req,resp);&lt;br&gt;这时候是子类对象调用父类方法，因此this指向子类" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="690" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlLSQJj6cPpG0CDQ0zKW-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="WlLSQJj6cPpG0CDQ0zKW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
